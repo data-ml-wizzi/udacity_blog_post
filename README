@@ -1,5 +1,11 @@
 ### 1. Installations ###
+You need the following package installations for your python environment to compile the code.
 
+pandas      ==2.2.3
+numpy       ==2.2.1
+seaborn     ==0.13.2
+matplotlib  ==3.10.0
+tqdm        ==4.67.1
 
 ### 2. Project Motivation ###
 
