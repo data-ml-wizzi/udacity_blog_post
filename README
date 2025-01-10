@@ -16,7 +16,10 @@ data                > includes the AirBnB .csv files for Boston and Seattle from
 blog_post.ipynb     > includes the complete Data Exploration, Preparation, Visualization and Analysis
 requirements.txt    > includes all packages needed for your Python environment    
 
-### 4. How to Interact with your project ###
+### 4. Summary ###
+Did you ever wonder, at what time of the year you should list your home on AirBnB and at which price? And how important your rating is? I analysed AirBnB Data from Seattle and Boston hosted on Kaggle and try to answer these questions.
+
+I personally thought, that seasonal trends, prices and an listings rating have an substantial effect on its booking quota. But as it turnes out espacially price and rating are overrated factors. A deeper analysis has to be done to find out the driving factors for the booking quota.
 
 
 
