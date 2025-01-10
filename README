@@ -1,13 +1,14 @@
 ### 1. Installations ###
 You need the following package installations for your python environment to compile the code.
 
-pandas      ==2.2.3
-numpy       ==2.2.1
-seaborn     ==0.13.2
-matplotlib  ==3.10.0
-tqdm        ==4.67.1
+pandas      == 2.2.3
+numpy       == 2.2.1
+seaborn     == 0.13.2
+matplotlib  == 3.10.0
+tqdm        == 4.67.1
 
 ### 2. Project Motivation ###
+I am doing a Data Science Nanodegree on Udacity. Part of that course is a project to write your own Blog Post Entry. Herefore different sources of data where offered. I opted for the AirBnB Data from Seattle and Boston hosted on Kaggle.
 
 
 ### 3. File Descriptions ###
