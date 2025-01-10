@@ -12,10 +12,11 @@ I am doing a Data Science Nanodegree on Udacity. Part of that course is a projec
 
 
 ### 3. File Descriptions ###
-
+data                > includes the AirBnB .csv files for Boston and Seattle from Kaggle
+blog_post.ipynb     > includes the complete Data Exploration, Preparation, Visualization and Analysis
+requirements.txt    > includes all packages needed for your Python environment    
 
 ### 4. How to Interact with your project ###
 
 
-### 5. Added a new one ####
 
